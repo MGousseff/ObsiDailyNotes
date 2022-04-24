@@ -7,8 +7,12 @@
         "id": "fb07af858034fdc1",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "00 Tasks Log.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -54,6 +58,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "00 Tasks Log.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -77,6 +82,8 @@
   },
   "active": "fb07af858034fdc1",
   "lastOpenFiles": [
+    "00 Tasks Log.md",
+    "00 Daily Notes Hub.md",
     "Diary/Daily Notes/2022-04-24.md",
     "Diary/Daily Notes/2022-04-17.md",
     "Diary/Daily Notes/2022-04-08.md",
@@ -84,8 +91,6 @@
     "Diary/Daily Notes/2022-04-10.md",
     "Diary/Daily Notes/2022-04-11.md",
     "Diary/Daily Notes/2022-04-12.md",
-    "Diary/Daily Notes/2022-04-13.md",
-    "00 Tasks Log.md",
-    "Diary/Daily Notes/2022-04-22.md"
+    "Diary/Daily Notes/2022-04-13.md"
   ]
 }
