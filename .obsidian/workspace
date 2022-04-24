@@ -13,17 +13,6 @@
             "mode": "source"
           }
         }
-      },
-      {
-        "id": "71f74faffa1197aa",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": ").md",
-            "mode": "source"
-          }
-        }
       }
     ],
     "direction": "vertical"
