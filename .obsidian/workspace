@@ -7,88 +7,78 @@
         "id": "fb07af858034fdc1",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Diary/Daily Notes/2022-04-24.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "5a6059e189f7e8af",
-    "type": "split",
+    "id": "5143a866b84ebb3e",
+    "type": "mobile-drawer",
     "children": [
       {
-        "id": "f7fe9e529458b6ec",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "e3af26ead6afa3d1",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {}
-            }
-          },
-          {
-            "id": "9d8fc2ec6b63c94d",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "gitjou",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              }
-            }
+        "id": "c78c0b91d8fa09c5",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "c8cd19c034b2a21b",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
           }
-        ],
-        "currentTab": 1
+        }
       }
     ],
-    "direction": "horizontal",
-    "width": 300
+    "currentTab": 0
   },
   "right": {
-    "id": "52da1197e16a8269",
-    "type": "split",
+    "id": "8d8d5cfac89e24b1",
+    "type": "mobile-drawer",
     "children": [
       {
-        "id": "4b07f4666ef2fc71",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "dcea7e175f61cc13",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          },
-          {
-            "id": "0a555eda9c0703a8",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
+        "id": "28ad5db17c5e68fb",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Diary/Daily Notes/2022-04-24.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
           }
-        ]
+        }
+      },
+      {
+        "id": "0bc78515f5b741b4",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
+        }
       }
     ],
-    "direction": "horizontal",
-    "width": 300
+    "currentTab": 0
   },
   "active": "fb07af858034fdc1",
   "lastOpenFiles": [
