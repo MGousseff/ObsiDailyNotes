@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "git",
+                "query": "gitjou",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -97,14 +97,14 @@
   "active": "f324b8837da968e4",
   "lastOpenFiles": [
     "Diary/Daily Notes/2022-04-17.md",
+    "Diary/Daily Notes/2022-04-08.md",
+    "Diary/Daily Notes/2022-04-09.md",
+    "Diary/Daily Notes/2022-04-10.md",
+    "Diary/Daily Notes/2022-04-11.md",
+    "Diary/Daily Notes/2022-04-12.md",
+    "Diary/Daily Notes/2022-04-13.md",
     "Diary/Daily Notes/2022-04-24.md",
     "00 Tasks Log.md",
-    "Diary/Daily Notes/2022-04-22.md",
-    "Diary/Daily Notes/2022-04-21.md",
-    "Diary/Daily Notes/2022-03-30.md",
-    "Diary/Daily Notes/2022-03-29.md",
-    "Diary/Daily Notes/2022-03-28.md",
-    "Diary/Daily Notes/2022-01-04.md",
-    "Diary/Daily Notes/2021-12-31.md"
+    "Diary/Daily Notes/2022-04-22.md"
   ]
 }
