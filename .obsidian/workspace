@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "00 Tasks Log.md",
+            "file": "00 Daily Notes Hub.md",
             "mode": "source",
             "source": false
           }
@@ -58,7 +58,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "00 Tasks Log.md",
+            "file": "00 Daily Notes Hub.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -82,8 +82,8 @@
   },
   "active": "fb07af858034fdc1",
   "lastOpenFiles": [
-    "00 Tasks Log.md",
     "00 Daily Notes Hub.md",
+    "00 Tasks Log.md",
     "Diary/Daily Notes/2022-04-24.md",
     "Diary/Daily Notes/2022-04-17.md",
     "Diary/Daily Notes/2022-04-08.md",
