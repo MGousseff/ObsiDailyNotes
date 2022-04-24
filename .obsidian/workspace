@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Diary/Daily Notes/2022-04-17.md",
-            "mode": "preview"
+            "file": "Diary/Daily Notes/2022-04-24.md",
+            "mode": "source"
           }
         }
       }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Diary/Daily Notes/2022-04-17.md",
+                "file": "Diary/Daily Notes/2022-04-24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,6 +96,7 @@
   },
   "active": "f324b8837da968e4",
   "lastOpenFiles": [
+    "Diary/Daily Notes/2022-04-24.md",
     "Diary/Daily Notes/2022-04-17.md",
     "Diary/Daily Notes/2022-04-08.md",
     "Diary/Daily Notes/2022-04-09.md",
@@ -103,7 +104,6 @@
     "Diary/Daily Notes/2022-04-11.md",
     "Diary/Daily Notes/2022-04-12.md",
     "Diary/Daily Notes/2022-04-13.md",
-    "Diary/Daily Notes/2022-04-24.md",
     "00 Tasks Log.md",
     "Diary/Daily Notes/2022-04-22.md"
   ]
