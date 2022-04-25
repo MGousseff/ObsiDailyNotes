@@ -9,8 +9,9 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Diary/Daily Notes/2022-04-24.md",
-            "mode": "source"
+            "file": "Diary/Daily Notes/2022-04-25.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -18,93 +19,78 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "3381a1cdb2757648",
-    "type": "split",
+    "id": "f752c4bb475dfe7b",
+    "type": "mobile-drawer",
     "children": [
       {
-        "id": "e30d6c8e0ffa57dd",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "497c7eb18602a201",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {}
-            }
-          },
-          {
-            "id": "ad6abb2d4fb0e0f7",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              }
-            }
+        "id": "d2e20a359642dc9d",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "08e4db1fd1457118",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
           }
-        ]
+        }
       }
     ],
-    "direction": "horizontal",
-    "width": 300
+    "currentTab": 0
   },
   "right": {
-    "id": "2c57df59b9a68893",
-    "type": "split",
+    "id": "ff6c027a9c30b94d",
+    "type": "mobile-drawer",
     "children": [
       {
-        "id": "332a4b174f2a354f",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "3961ff4a634174b2",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          },
-          {
-            "id": "c8262a5545a88664",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Diary/Daily Notes/2022-04-24.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
+        "id": "6af78467ed159254",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
+        }
+      },
+      {
+        "id": "e1b415742c48c608",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Diary/Daily Notes/2022-04-25.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
           }
-        ]
+        }
       }
     ],
-    "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "currentTab": 0
   },
   "active": "96c2e9be17cccfd8",
   "lastOpenFiles": [
+    "Diary/Daily Notes/2022-04-25.md",
+    "00 Tasks Log.md",
     "Diary/Daily Notes/2022-04-24.md",
     ").md",
-    "00 Tasks Log.md",
     "Diary/Daily Notes/2022-04-19.md",
     "00 Daily Notes Hub.md",
     "Diary/Daily Notes/2022-04-17.md",
     "Diary/Daily Notes/2022-04-08.md",
     "Diary/Daily Notes/2022-04-09.md",
-    "Diary/Daily Notes/2022-04-10.md",
-    "Diary/Daily Notes/2022-04-11.md"
+    "Diary/Daily Notes/2022-04-10.md"
   ]
 }
